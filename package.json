@@ -1,13 +1,16 @@
 {
   "name": "skindetector",
   "version": "1.0.0",
-  "description": "",
+  "description": "Image analysis package for skin detecting",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "image", "skin detecting", "skin tone", "color classifier"
+  ],
   "author": "kschingiz",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "jimp": "^0.2.28"
   }
