@@ -10,6 +10,10 @@
     "image", "skin detecting", "skin tone", "color classifier"
   ],
   "homepage": "https://github.com/kschingiz/skindetector",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/kschingiz/skindetector"
+  },
   "bugs": {
     "url": "https://github.com/kschingiz/skindetector/issues",
     "email" : "kschingiz@gmail.com"
